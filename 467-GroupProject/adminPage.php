@@ -6,10 +6,10 @@
    <head>
 	<title>Admin Page</title>
     <?php
-	$username = "z1782665";
-	$password = "1996Oct06";
-	$username2 = "student";
-	$password2 = "student";
+	$username = 
+	$password = 
+	$username2 = 
+	$password2 = 
 
 	//try connecting to the databases
 	try{
