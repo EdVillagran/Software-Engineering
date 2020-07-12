@@ -7,11 +7,11 @@
 	<title>Front Desk Page</title>
 
 	<?php
-		$username= "student";
-		$password = "student";
+		$username= *edited out*
+		$password = *edited out*
 
       try{
-		   $dsn = "mysql:host=blitz.cs.niu.edu;dbname=csci467";
+		   $dsn = "mysql:host=blitz.cs.niu.edu;dbname=edited out;
 			$pdo = new PDO($dsn, $username, $password);
       }
       catch(PDOexception $e){
