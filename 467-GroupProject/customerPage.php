@@ -10,8 +10,8 @@
 	<?php
 		$username = "student";
 		$password = "student";
-		$username2 = "z1782665";
-		$password2= "1996Oct06";
+		$username2 = 
+		$password2= 
 
 
 
